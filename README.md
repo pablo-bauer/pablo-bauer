@@ -7,7 +7,7 @@ do banco de dados ao deploy, com automação e IA no meio.
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Wolf Flow**](https://github.com/kvothedarinha/wolf-flow) · [site](https://wolfflow.vercel.app) | Rastreador de hábitos PWA com streaks, check-ins retroativos e mapa de calor | React 19, TanStack Start, Tailwind 4, Supabase (RLS) |
+| [**Wolf Flow**](https://github.com/pablo-bauer/wolf-flow) · [site](https://wolfflow.vercel.app) | Rastreador de hábitos PWA com streaks, check-ins retroativos e mapa de calor | React 19, TanStack Start, Tailwind 4, Supabase (RLS) |
 
 Mais projetos serão publicados aqui em breve.
 
